@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\k_sto\\source\\repos\\Loops - Exercise\\07. Special Bonus\\07. Special Bonus.csproj": {}
+    "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Loops - Exercise\\07. Special Bonus\\07. Special Bonus.csproj": {}
   },
   "projects": {
-    "C:\\Users\\k_sto\\source\\repos\\Loops - Exercise\\07. Special Bonus\\07. Special Bonus.csproj": {
+    "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Loops - Exercise\\07. Special Bonus\\07. Special Bonus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\k_sto\\source\\repos\\Loops - Exercise\\07. Special Bonus\\07. Special Bonus.csproj",
+        "projectUniqueName": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Loops - Exercise\\07. Special Bonus\\07. Special Bonus.csproj",
         "projectName": "07. Special Bonus",
-        "projectPath": "C:\\Users\\k_sto\\source\\repos\\Loops - Exercise\\07. Special Bonus\\07. Special Bonus.csproj",
+        "projectPath": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Loops - Exercise\\07. Special Bonus\\07. Special Bonus.csproj",
         "packagesPath": "C:\\Users\\k_sto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\k_sto\\source\\repos\\Loops - Exercise\\07. Special Bonus\\obj\\",
+        "outputPath": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Loops - Exercise\\07. Special Bonus\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\k_sto\\AppData\\Roaming\\NuGet\\NuGet.Config",

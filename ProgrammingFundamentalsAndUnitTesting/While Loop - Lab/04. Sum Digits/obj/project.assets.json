@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\k_sto\\source\\repos\\While Loop - Lab\\04. Sum Digits\\04. Sum Digits.csproj",
+      "projectUniqueName": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\While Loop - Lab\\04. Sum Digits\\04. Sum Digits.csproj",
       "projectName": "04. Sum Digits",
-      "projectPath": "C:\\Users\\k_sto\\source\\repos\\While Loop - Lab\\04. Sum Digits\\04. Sum Digits.csproj",
+      "projectPath": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\While Loop - Lab\\04. Sum Digits\\04. Sum Digits.csproj",
       "packagesPath": "C:\\Users\\k_sto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\k_sto\\source\\repos\\While Loop - Lab\\04. Sum Digits\\obj\\",
+      "outputPath": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\While Loop - Lab\\04. Sum Digits\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\k_sto\\AppData\\Roaming\\NuGet\\NuGet.Config",

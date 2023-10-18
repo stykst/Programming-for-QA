@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\k_sto\\source\\repos\\Loops - Exercise\\02. Multiplication Table\\02. Multiplication Table.csproj": {}
+    "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Loops - Exercise\\02. Multiplication Table\\02. Multiplication Table.csproj": {}
   },
   "projects": {
-    "C:\\Users\\k_sto\\source\\repos\\Loops - Exercise\\02. Multiplication Table\\02. Multiplication Table.csproj": {
+    "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Loops - Exercise\\02. Multiplication Table\\02. Multiplication Table.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\k_sto\\source\\repos\\Loops - Exercise\\02. Multiplication Table\\02. Multiplication Table.csproj",
+        "projectUniqueName": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Loops - Exercise\\02. Multiplication Table\\02. Multiplication Table.csproj",
         "projectName": "02. Multiplication Table",
-        "projectPath": "C:\\Users\\k_sto\\source\\repos\\Loops - Exercise\\02. Multiplication Table\\02. Multiplication Table.csproj",
+        "projectPath": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Loops - Exercise\\02. Multiplication Table\\02. Multiplication Table.csproj",
         "packagesPath": "C:\\Users\\k_sto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\k_sto\\source\\repos\\Loops - Exercise\\02. Multiplication Table\\obj\\",
+        "outputPath": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Loops - Exercise\\02. Multiplication Table\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\k_sto\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\k_sto\\source\\repos\\Methods - Lab\\01. Sign of Integer Numbers\\01. Sign of Integer Numbers.csproj": {}
+    "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Methods - Lab\\01. Sign of Integer Numbers\\01. Sign of Integer Numbers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\k_sto\\source\\repos\\Methods - Lab\\01. Sign of Integer Numbers\\01. Sign of Integer Numbers.csproj": {
+    "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Methods - Lab\\01. Sign of Integer Numbers\\01. Sign of Integer Numbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\k_sto\\source\\repos\\Methods - Lab\\01. Sign of Integer Numbers\\01. Sign of Integer Numbers.csproj",
+        "projectUniqueName": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Methods - Lab\\01. Sign of Integer Numbers\\01. Sign of Integer Numbers.csproj",
         "projectName": "01. Sign of Integer Numbers",
-        "projectPath": "C:\\Users\\k_sto\\source\\repos\\Methods - Lab\\01. Sign of Integer Numbers\\01. Sign of Integer Numbers.csproj",
+        "projectPath": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Methods - Lab\\01. Sign of Integer Numbers\\01. Sign of Integer Numbers.csproj",
         "packagesPath": "C:\\Users\\k_sto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\k_sto\\source\\repos\\Methods - Lab\\01. Sign of Integer Numbers\\obj\\",
+        "outputPath": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Methods - Lab\\01. Sign of Integer Numbers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\k_sto\\AppData\\Roaming\\NuGet\\NuGet.Config",

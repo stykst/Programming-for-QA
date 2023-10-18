@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\k_sto\\source\\repos\\Methods - Lab\\07. Greater of Two Values\\07. Greater of Two Values.csproj",
+      "projectUniqueName": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Methods - Lab\\07. Greater of Two Values\\07. Greater of Two Values.csproj",
       "projectName": "07. Greater of Two Values",
-      "projectPath": "C:\\Users\\k_sto\\source\\repos\\Methods - Lab\\07. Greater of Two Values\\07. Greater of Two Values.csproj",
+      "projectPath": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Methods - Lab\\07. Greater of Two Values\\07. Greater of Two Values.csproj",
       "packagesPath": "C:\\Users\\k_sto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\k_sto\\source\\repos\\Methods - Lab\\07. Greater of Two Values\\obj\\",
+      "outputPath": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Methods - Lab\\07. Greater of Two Values\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\k_sto\\AppData\\Roaming\\NuGet\\NuGet.Config",

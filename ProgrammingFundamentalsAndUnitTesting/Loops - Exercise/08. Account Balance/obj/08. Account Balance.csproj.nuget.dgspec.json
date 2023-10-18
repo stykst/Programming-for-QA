@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\k_sto\\source\\repos\\Loops - Exercise\\08. Account Balance\\08. Account Balance.csproj": {}
+    "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Loops - Exercise\\08. Account Balance\\08. Account Balance.csproj": {}
   },
   "projects": {
-    "C:\\Users\\k_sto\\source\\repos\\Loops - Exercise\\08. Account Balance\\08. Account Balance.csproj": {
+    "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Loops - Exercise\\08. Account Balance\\08. Account Balance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\k_sto\\source\\repos\\Loops - Exercise\\08. Account Balance\\08. Account Balance.csproj",
+        "projectUniqueName": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Loops - Exercise\\08. Account Balance\\08. Account Balance.csproj",
         "projectName": "08. Account Balance",
-        "projectPath": "C:\\Users\\k_sto\\source\\repos\\Loops - Exercise\\08. Account Balance\\08. Account Balance.csproj",
+        "projectPath": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Loops - Exercise\\08. Account Balance\\08. Account Balance.csproj",
         "packagesPath": "C:\\Users\\k_sto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\k_sto\\source\\repos\\Loops - Exercise\\08. Account Balance\\obj\\",
+        "outputPath": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Loops - Exercise\\08. Account Balance\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\k_sto\\AppData\\Roaming\\NuGet\\NuGet.Config",

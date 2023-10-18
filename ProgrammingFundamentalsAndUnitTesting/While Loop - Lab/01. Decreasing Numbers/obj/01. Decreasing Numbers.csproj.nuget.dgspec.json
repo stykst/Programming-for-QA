@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\k_sto\\source\\repos\\While Loop - Lab\\01. Decreasing Numbers\\01. Decreasing Numbers.csproj": {}
+    "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\While Loop - Lab\\01. Decreasing Numbers\\01. Decreasing Numbers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\k_sto\\source\\repos\\While Loop - Lab\\01. Decreasing Numbers\\01. Decreasing Numbers.csproj": {
+    "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\While Loop - Lab\\01. Decreasing Numbers\\01. Decreasing Numbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\k_sto\\source\\repos\\While Loop - Lab\\01. Decreasing Numbers\\01. Decreasing Numbers.csproj",
+        "projectUniqueName": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\While Loop - Lab\\01. Decreasing Numbers\\01. Decreasing Numbers.csproj",
         "projectName": "01. Decreasing Numbers",
-        "projectPath": "C:\\Users\\k_sto\\source\\repos\\While Loop - Lab\\01. Decreasing Numbers\\01. Decreasing Numbers.csproj",
+        "projectPath": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\While Loop - Lab\\01. Decreasing Numbers\\01. Decreasing Numbers.csproj",
         "packagesPath": "C:\\Users\\k_sto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\k_sto\\source\\repos\\While Loop - Lab\\01. Decreasing Numbers\\obj\\",
+        "outputPath": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\While Loop - Lab\\01. Decreasing Numbers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\k_sto\\AppData\\Roaming\\NuGet\\NuGet.Config",

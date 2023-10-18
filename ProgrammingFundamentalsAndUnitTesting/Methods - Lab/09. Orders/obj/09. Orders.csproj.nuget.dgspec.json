@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\k_sto\\source\\repos\\Methods - Lab\\09. Orders\\09. Orders.csproj": {}
+    "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Methods - Lab\\09. Orders\\09. Orders.csproj": {}
   },
   "projects": {
-    "C:\\Users\\k_sto\\source\\repos\\Methods - Lab\\09. Orders\\09. Orders.csproj": {
+    "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Methods - Lab\\09. Orders\\09. Orders.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\k_sto\\source\\repos\\Methods - Lab\\09. Orders\\09. Orders.csproj",
+        "projectUniqueName": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Methods - Lab\\09. Orders\\09. Orders.csproj",
         "projectName": "09. Orders",
-        "projectPath": "C:\\Users\\k_sto\\source\\repos\\Methods - Lab\\09. Orders\\09. Orders.csproj",
+        "projectPath": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Methods - Lab\\09. Orders\\09. Orders.csproj",
         "packagesPath": "C:\\Users\\k_sto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\k_sto\\source\\repos\\Methods - Lab\\09. Orders\\obj\\",
+        "outputPath": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Methods - Lab\\09. Orders\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\k_sto\\AppData\\Roaming\\NuGet\\NuGet.Config",

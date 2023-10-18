@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\k_sto\\source\\repos\\Nested Loops - Lab\\04. Building\\04. Building.csproj": {}
+    "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Nested Loops - Lab\\04. Building\\04. Building.csproj": {}
   },
   "projects": {
-    "C:\\Users\\k_sto\\source\\repos\\Nested Loops - Lab\\04. Building\\04. Building.csproj": {
+    "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Nested Loops - Lab\\04. Building\\04. Building.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\k_sto\\source\\repos\\Nested Loops - Lab\\04. Building\\04. Building.csproj",
+        "projectUniqueName": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Nested Loops - Lab\\04. Building\\04. Building.csproj",
         "projectName": "04. Building",
-        "projectPath": "C:\\Users\\k_sto\\source\\repos\\Nested Loops - Lab\\04. Building\\04. Building.csproj",
+        "projectPath": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Nested Loops - Lab\\04. Building\\04. Building.csproj",
         "packagesPath": "C:\\Users\\k_sto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\k_sto\\source\\repos\\Nested Loops - Lab\\04. Building\\obj\\",
+        "outputPath": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Nested Loops - Lab\\04. Building\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\k_sto\\AppData\\Roaming\\NuGet\\NuGet.Config",

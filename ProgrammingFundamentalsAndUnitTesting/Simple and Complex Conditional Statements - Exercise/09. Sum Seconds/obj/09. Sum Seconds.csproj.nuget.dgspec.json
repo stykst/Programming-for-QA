@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\k_sto\\source\\repos\\Simple and Complex Conditional Statements - Exercise\\09. Sum Seconds\\09. Sum Seconds.csproj": {}
+    "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Simple and Complex Conditional Statements - Exercise\\09. Sum Seconds\\09. Sum Seconds.csproj": {}
   },
   "projects": {
-    "C:\\Users\\k_sto\\source\\repos\\Simple and Complex Conditional Statements - Exercise\\09. Sum Seconds\\09. Sum Seconds.csproj": {
+    "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Simple and Complex Conditional Statements - Exercise\\09. Sum Seconds\\09. Sum Seconds.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\k_sto\\source\\repos\\Simple and Complex Conditional Statements - Exercise\\09. Sum Seconds\\09. Sum Seconds.csproj",
+        "projectUniqueName": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Simple and Complex Conditional Statements - Exercise\\09. Sum Seconds\\09. Sum Seconds.csproj",
         "projectName": "09. Sum Seconds",
-        "projectPath": "C:\\Users\\k_sto\\source\\repos\\Simple and Complex Conditional Statements - Exercise\\09. Sum Seconds\\09. Sum Seconds.csproj",
+        "projectPath": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Simple and Complex Conditional Statements - Exercise\\09. Sum Seconds\\09. Sum Seconds.csproj",
         "packagesPath": "C:\\Users\\k_sto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\k_sto\\source\\repos\\Simple and Complex Conditional Statements - Exercise\\09. Sum Seconds\\obj\\",
+        "outputPath": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Simple and Complex Conditional Statements - Exercise\\09. Sum Seconds\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\k_sto\\AppData\\Roaming\\NuGet\\NuGet.Config",

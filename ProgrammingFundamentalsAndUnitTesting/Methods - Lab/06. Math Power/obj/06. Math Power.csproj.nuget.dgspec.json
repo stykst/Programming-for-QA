@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\k_sto\\source\\repos\\Methods - Lab\\06. Math Power\\06. Math Power.csproj": {}
+    "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Methods - Lab\\06. Math Power\\06. Math Power.csproj": {}
   },
   "projects": {
-    "C:\\Users\\k_sto\\source\\repos\\Methods - Lab\\06. Math Power\\06. Math Power.csproj": {
+    "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Methods - Lab\\06. Math Power\\06. Math Power.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\k_sto\\source\\repos\\Methods - Lab\\06. Math Power\\06. Math Power.csproj",
+        "projectUniqueName": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Methods - Lab\\06. Math Power\\06. Math Power.csproj",
         "projectName": "06. Math Power",
-        "projectPath": "C:\\Users\\k_sto\\source\\repos\\Methods - Lab\\06. Math Power\\06. Math Power.csproj",
+        "projectPath": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Methods - Lab\\06. Math Power\\06. Math Power.csproj",
         "packagesPath": "C:\\Users\\k_sto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\k_sto\\source\\repos\\Methods - Lab\\06. Math Power\\obj\\",
+        "outputPath": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Methods - Lab\\06. Math Power\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\k_sto\\AppData\\Roaming\\NuGet\\NuGet.Config",

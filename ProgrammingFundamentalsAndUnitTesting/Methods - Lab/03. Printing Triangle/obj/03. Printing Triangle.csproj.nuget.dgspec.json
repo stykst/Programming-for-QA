@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\k_sto\\source\\repos\\Methods - Lab\\03. Printing Triangle\\03. Printing Triangle.csproj": {}
+    "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Methods - Lab\\03. Printing Triangle\\03. Printing Triangle.csproj": {}
   },
   "projects": {
-    "C:\\Users\\k_sto\\source\\repos\\Methods - Lab\\03. Printing Triangle\\03. Printing Triangle.csproj": {
+    "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Methods - Lab\\03. Printing Triangle\\03. Printing Triangle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\k_sto\\source\\repos\\Methods - Lab\\03. Printing Triangle\\03. Printing Triangle.csproj",
+        "projectUniqueName": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Methods - Lab\\03. Printing Triangle\\03. Printing Triangle.csproj",
         "projectName": "03. Printing Triangle",
-        "projectPath": "C:\\Users\\k_sto\\source\\repos\\Methods - Lab\\03. Printing Triangle\\03. Printing Triangle.csproj",
+        "projectPath": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Methods - Lab\\03. Printing Triangle\\03. Printing Triangle.csproj",
         "packagesPath": "C:\\Users\\k_sto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\k_sto\\source\\repos\\Methods - Lab\\03. Printing Triangle\\obj\\",
+        "outputPath": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Methods - Lab\\03. Printing Triangle\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\k_sto\\AppData\\Roaming\\NuGet\\NuGet.Config",

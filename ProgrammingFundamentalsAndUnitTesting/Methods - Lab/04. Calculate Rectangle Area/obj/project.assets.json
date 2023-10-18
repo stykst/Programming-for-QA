@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\k_sto\\source\\repos\\Methods - Lab\\04. Calculate Rectangle Area\\04. Calculate Rectangle Area.csproj",
+      "projectUniqueName": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Methods - Lab\\04. Calculate Rectangle Area\\04. Calculate Rectangle Area.csproj",
       "projectName": "04. Calculate Rectangle Area",
-      "projectPath": "C:\\Users\\k_sto\\source\\repos\\Methods - Lab\\04. Calculate Rectangle Area\\04. Calculate Rectangle Area.csproj",
+      "projectPath": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Methods - Lab\\04. Calculate Rectangle Area\\04. Calculate Rectangle Area.csproj",
       "packagesPath": "C:\\Users\\k_sto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\k_sto\\source\\repos\\Methods - Lab\\04. Calculate Rectangle Area\\obj\\",
+      "outputPath": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Methods - Lab\\04. Calculate Rectangle Area\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\k_sto\\AppData\\Roaming\\NuGet\\NuGet.Config",

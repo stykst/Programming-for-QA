@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\k_sto\\source\\repos\\Methods - Lab\\08. Multiply Evens by Odds\\08. Multiply Evens by Odds.csproj": {}
+    "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Methods - Lab\\08. Multiply Evens by Odds\\08. Multiply Evens by Odds.csproj": {}
   },
   "projects": {
-    "C:\\Users\\k_sto\\source\\repos\\Methods - Lab\\08. Multiply Evens by Odds\\08. Multiply Evens by Odds.csproj": {
+    "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Methods - Lab\\08. Multiply Evens by Odds\\08. Multiply Evens by Odds.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\k_sto\\source\\repos\\Methods - Lab\\08. Multiply Evens by Odds\\08. Multiply Evens by Odds.csproj",
+        "projectUniqueName": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Methods - Lab\\08. Multiply Evens by Odds\\08. Multiply Evens by Odds.csproj",
         "projectName": "08. Multiply Evens by Odds",
-        "projectPath": "C:\\Users\\k_sto\\source\\repos\\Methods - Lab\\08. Multiply Evens by Odds\\08. Multiply Evens by Odds.csproj",
+        "projectPath": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Methods - Lab\\08. Multiply Evens by Odds\\08. Multiply Evens by Odds.csproj",
         "packagesPath": "C:\\Users\\k_sto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\k_sto\\source\\repos\\Methods - Lab\\08. Multiply Evens by Odds\\obj\\",
+        "outputPath": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Methods - Lab\\08. Multiply Evens by Odds\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\k_sto\\AppData\\Roaming\\NuGet\\NuGet.Config",

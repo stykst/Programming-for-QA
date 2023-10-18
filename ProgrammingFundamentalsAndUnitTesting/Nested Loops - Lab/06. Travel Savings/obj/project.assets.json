@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\k_sto\\source\\repos\\Nested Loops - Lab\\06. Travel Savings\\06. Travel Savings.csproj",
+      "projectUniqueName": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Nested Loops - Lab\\06. Travel Savings\\06. Travel Savings.csproj",
       "projectName": "06. Travel Savings",
-      "projectPath": "C:\\Users\\k_sto\\source\\repos\\Nested Loops - Lab\\06. Travel Savings\\06. Travel Savings.csproj",
+      "projectPath": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Nested Loops - Lab\\06. Travel Savings\\06. Travel Savings.csproj",
       "packagesPath": "C:\\Users\\k_sto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\k_sto\\source\\repos\\Nested Loops - Lab\\06. Travel Savings\\obj\\",
+      "outputPath": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Nested Loops - Lab\\06. Travel Savings\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\k_sto\\AppData\\Roaming\\NuGet\\NuGet.Config",

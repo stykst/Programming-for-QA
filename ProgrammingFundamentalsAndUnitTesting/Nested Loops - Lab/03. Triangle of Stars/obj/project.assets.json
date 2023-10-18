@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\k_sto\\source\\repos\\Nested Loops - Lab\\03. Triangle of Stars\\03. Triangle of Stars.csproj",
+      "projectUniqueName": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Nested Loops - Lab\\03. Triangle of Stars\\03. Triangle of Stars.csproj",
       "projectName": "03. Triangle of Stars",
-      "projectPath": "C:\\Users\\k_sto\\source\\repos\\Nested Loops - Lab\\03. Triangle of Stars\\03. Triangle of Stars.csproj",
+      "projectPath": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Nested Loops - Lab\\03. Triangle of Stars\\03. Triangle of Stars.csproj",
       "packagesPath": "C:\\Users\\k_sto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\k_sto\\source\\repos\\Nested Loops - Lab\\03. Triangle of Stars\\obj\\",
+      "outputPath": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Nested Loops - Lab\\03. Triangle of Stars\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\k_sto\\AppData\\Roaming\\NuGet\\NuGet.Config",

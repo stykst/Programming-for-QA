@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\k_sto\\source\\repos\\Loops - Exercise\\01. Power Of Number\\01. Power Of Number.csproj",
+      "projectUniqueName": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Loops - Exercise\\01. Power Of Number\\01. Power Of Number.csproj",
       "projectName": "01. Power Of Number",
-      "projectPath": "C:\\Users\\k_sto\\source\\repos\\Loops - Exercise\\01. Power Of Number\\01. Power Of Number.csproj",
+      "projectPath": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Loops - Exercise\\01. Power Of Number\\01. Power Of Number.csproj",
       "packagesPath": "C:\\Users\\k_sto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\k_sto\\source\\repos\\Loops - Exercise\\01. Power Of Number\\obj\\",
+      "outputPath": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Loops - Exercise\\01. Power Of Number\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\k_sto\\AppData\\Roaming\\NuGet\\NuGet.Config",

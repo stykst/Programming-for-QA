@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\k_sto\\source\\repos\\Loops - Exercise\\04. Vowel Sum\\04. Vowel Sum.csproj",
+      "projectUniqueName": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Loops - Exercise\\04. Vowel Sum\\04. Vowel Sum.csproj",
       "projectName": "04. Vowel Sum",
-      "projectPath": "C:\\Users\\k_sto\\source\\repos\\Loops - Exercise\\04. Vowel Sum\\04. Vowel Sum.csproj",
+      "projectPath": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Loops - Exercise\\04. Vowel Sum\\04. Vowel Sum.csproj",
       "packagesPath": "C:\\Users\\k_sto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\k_sto\\source\\repos\\Loops - Exercise\\04. Vowel Sum\\obj\\",
+      "outputPath": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Loops - Exercise\\04. Vowel Sum\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\k_sto\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\k_sto\\source\\repos\\Simple and Complex Conditional Statements - Exercise\\10. Summer Outfit\\10. Summer Outfit.csproj": {}
+    "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Simple and Complex Conditional Statements - Exercise\\10. Summer Outfit\\10. Summer Outfit.csproj": {}
   },
   "projects": {
-    "C:\\Users\\k_sto\\source\\repos\\Simple and Complex Conditional Statements - Exercise\\10. Summer Outfit\\10. Summer Outfit.csproj": {
+    "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Simple and Complex Conditional Statements - Exercise\\10. Summer Outfit\\10. Summer Outfit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\k_sto\\source\\repos\\Simple and Complex Conditional Statements - Exercise\\10. Summer Outfit\\10. Summer Outfit.csproj",
+        "projectUniqueName": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Simple and Complex Conditional Statements - Exercise\\10. Summer Outfit\\10. Summer Outfit.csproj",
         "projectName": "10. Summer Outfit",
-        "projectPath": "C:\\Users\\k_sto\\source\\repos\\Simple and Complex Conditional Statements - Exercise\\10. Summer Outfit\\10. Summer Outfit.csproj",
+        "projectPath": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Simple and Complex Conditional Statements - Exercise\\10. Summer Outfit\\10. Summer Outfit.csproj",
         "packagesPath": "C:\\Users\\k_sto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\k_sto\\source\\repos\\Simple and Complex Conditional Statements - Exercise\\10. Summer Outfit\\obj\\",
+        "outputPath": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Simple and Complex Conditional Statements - Exercise\\10. Summer Outfit\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\k_sto\\AppData\\Roaming\\NuGet\\NuGet.Config",

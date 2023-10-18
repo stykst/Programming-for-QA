@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\k_sto\\source\\repos\\Simple and Complex Conditional Statements - Exercise\\04. Number Operations\\04. Number Operations.csproj": {}
+    "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Simple and Complex Conditional Statements - Exercise\\04. Number Operations\\04. Number Operations.csproj": {}
   },
   "projects": {
-    "C:\\Users\\k_sto\\source\\repos\\Simple and Complex Conditional Statements - Exercise\\04. Number Operations\\04. Number Operations.csproj": {
+    "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Simple and Complex Conditional Statements - Exercise\\04. Number Operations\\04. Number Operations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\k_sto\\source\\repos\\Simple and Complex Conditional Statements - Exercise\\04. Number Operations\\04. Number Operations.csproj",
+        "projectUniqueName": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Simple and Complex Conditional Statements - Exercise\\04. Number Operations\\04. Number Operations.csproj",
         "projectName": "04. Number Operations",
-        "projectPath": "C:\\Users\\k_sto\\source\\repos\\Simple and Complex Conditional Statements - Exercise\\04. Number Operations\\04. Number Operations.csproj",
+        "projectPath": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Simple and Complex Conditional Statements - Exercise\\04. Number Operations\\04. Number Operations.csproj",
         "packagesPath": "C:\\Users\\k_sto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\k_sto\\source\\repos\\Simple and Complex Conditional Statements - Exercise\\04. Number Operations\\obj\\",
+        "outputPath": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Simple and Complex Conditional Statements - Exercise\\04. Number Operations\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\k_sto\\AppData\\Roaming\\NuGet\\NuGet.Config",

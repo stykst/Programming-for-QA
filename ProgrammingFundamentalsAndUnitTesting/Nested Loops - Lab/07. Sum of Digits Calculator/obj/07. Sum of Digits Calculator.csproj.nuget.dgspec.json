@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\k_sto\\source\\repos\\Nested Loops - Lab\\07. Sum of Digits Calculator\\07. Sum of Digits Calculator.csproj": {}
+    "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Nested Loops - Lab\\07. Sum of Digits Calculator\\07. Sum of Digits Calculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\k_sto\\source\\repos\\Nested Loops - Lab\\07. Sum of Digits Calculator\\07. Sum of Digits Calculator.csproj": {
+    "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Nested Loops - Lab\\07. Sum of Digits Calculator\\07. Sum of Digits Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\k_sto\\source\\repos\\Nested Loops - Lab\\07. Sum of Digits Calculator\\07. Sum of Digits Calculator.csproj",
+        "projectUniqueName": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Nested Loops - Lab\\07. Sum of Digits Calculator\\07. Sum of Digits Calculator.csproj",
         "projectName": "07. Sum of Digits Calculator",
-        "projectPath": "C:\\Users\\k_sto\\source\\repos\\Nested Loops - Lab\\07. Sum of Digits Calculator\\07. Sum of Digits Calculator.csproj",
+        "projectPath": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Nested Loops - Lab\\07. Sum of Digits Calculator\\07. Sum of Digits Calculator.csproj",
         "packagesPath": "C:\\Users\\k_sto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\k_sto\\source\\repos\\Nested Loops - Lab\\07. Sum of Digits Calculator\\obj\\",
+        "outputPath": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Nested Loops - Lab\\07. Sum of Digits Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\k_sto\\AppData\\Roaming\\NuGet\\NuGet.Config",

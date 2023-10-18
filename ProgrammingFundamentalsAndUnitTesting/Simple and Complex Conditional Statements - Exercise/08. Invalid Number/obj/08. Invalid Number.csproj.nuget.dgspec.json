@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\k_sto\\source\\repos\\Simple and Complex Conditional Statements - Exercise\\08. Invalid Number\\08. Invalid Number.csproj": {}
+    "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Simple and Complex Conditional Statements - Exercise\\08. Invalid Number\\08. Invalid Number.csproj": {}
   },
   "projects": {
-    "C:\\Users\\k_sto\\source\\repos\\Simple and Complex Conditional Statements - Exercise\\08. Invalid Number\\08. Invalid Number.csproj": {
+    "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Simple and Complex Conditional Statements - Exercise\\08. Invalid Number\\08. Invalid Number.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\k_sto\\source\\repos\\Simple and Complex Conditional Statements - Exercise\\08. Invalid Number\\08. Invalid Number.csproj",
+        "projectUniqueName": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Simple and Complex Conditional Statements - Exercise\\08. Invalid Number\\08. Invalid Number.csproj",
         "projectName": "08. Invalid Number",
-        "projectPath": "C:\\Users\\k_sto\\source\\repos\\Simple and Complex Conditional Statements - Exercise\\08. Invalid Number\\08. Invalid Number.csproj",
+        "projectPath": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Simple and Complex Conditional Statements - Exercise\\08. Invalid Number\\08. Invalid Number.csproj",
         "packagesPath": "C:\\Users\\k_sto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\k_sto\\source\\repos\\Simple and Complex Conditional Statements - Exercise\\08. Invalid Number\\obj\\",
+        "outputPath": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Simple and Complex Conditional Statements - Exercise\\08. Invalid Number\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\k_sto\\AppData\\Roaming\\NuGet\\NuGet.Config",

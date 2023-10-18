@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\k_sto\\source\\repos\\Simple and Complex Conditional Statements - Exercise\\02. ATM\\02. ATM.csproj",
+      "projectUniqueName": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Simple and Complex Conditional Statements - Exercise\\02. ATM\\02. ATM.csproj",
       "projectName": "02. ATM",
-      "projectPath": "C:\\Users\\k_sto\\source\\repos\\Simple and Complex Conditional Statements - Exercise\\02. ATM\\02. ATM.csproj",
+      "projectPath": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Simple and Complex Conditional Statements - Exercise\\02. ATM\\02. ATM.csproj",
       "packagesPath": "C:\\Users\\k_sto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\k_sto\\source\\repos\\Simple and Complex Conditional Statements - Exercise\\02. ATM\\obj\\",
+      "outputPath": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Simple and Complex Conditional Statements - Exercise\\02. ATM\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\k_sto\\AppData\\Roaming\\NuGet\\NuGet.Config",
