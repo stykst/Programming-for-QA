@@ -1,0 +1,14 @@
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Lists - Lab\03. Remove Negatives and Reverse\bin\Debug\net6.0\03. Remove Negatives and Reverse.exe
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Lists - Lab\03. Remove Negatives and Reverse\bin\Debug\net6.0\03. Remove Negatives and Reverse.deps.json
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Lists - Lab\03. Remove Negatives and Reverse\bin\Debug\net6.0\03. Remove Negatives and Reverse.runtimeconfig.json
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Lists - Lab\03. Remove Negatives and Reverse\bin\Debug\net6.0\03. Remove Negatives and Reverse.dll
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Lists - Lab\03. Remove Negatives and Reverse\bin\Debug\net6.0\03. Remove Negatives and Reverse.pdb
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Lists - Lab\03. Remove Negatives and Reverse\obj\Debug\net6.0\03. Remove Negatives and Reverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Lists - Lab\03. Remove Negatives and Reverse\obj\Debug\net6.0\03. Remove Negatives and Reverse.AssemblyInfoInputs.cache
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Lists - Lab\03. Remove Negatives and Reverse\obj\Debug\net6.0\03. Remove Negatives and Reverse.AssemblyInfo.cs
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Lists - Lab\03. Remove Negatives and Reverse\obj\Debug\net6.0\03. Remove Negatives and Reverse.csproj.CoreCompileInputs.cache
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Lists - Lab\03. Remove Negatives and Reverse\obj\Debug\net6.0\03. Remove Negatives and Reverse.dll
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Lists - Lab\03. Remove Negatives and Reverse\obj\Debug\net6.0\refint\03. Remove Negatives and Reverse.dll
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Lists - Lab\03. Remove Negatives and Reverse\obj\Debug\net6.0\03. Remove Negatives and Reverse.pdb
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Lists - Lab\03. Remove Negatives and Reverse\obj\Debug\net6.0\03. Remove Negatives and Reverse.genruntimeconfig.cache
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Lists - Lab\03. Remove Negatives and Reverse\obj\Debug\net6.0\ref\03. Remove Negatives and Reverse.dll
