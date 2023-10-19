@@ -55,6 +55,9 @@ while (true)
                     Console.WriteLine(string.Join(" ", numbers.Where(n => n >= number)));
                     break;
             }
+
             break;
     }
 }
+
+Console.WriteLine(string.Join(" ", numbers));
