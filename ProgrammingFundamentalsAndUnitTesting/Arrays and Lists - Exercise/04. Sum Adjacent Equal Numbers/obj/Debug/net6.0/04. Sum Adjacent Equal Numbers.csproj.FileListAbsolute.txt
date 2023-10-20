@@ -1,0 +1,14 @@
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Arrays and Lists - Exercise\04. Sum Adjacent Equal Numbers\bin\Debug\net6.0\04. Sum Adjacent Equal Numbers.exe
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Arrays and Lists - Exercise\04. Sum Adjacent Equal Numbers\bin\Debug\net6.0\04. Sum Adjacent Equal Numbers.deps.json
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Arrays and Lists - Exercise\04. Sum Adjacent Equal Numbers\bin\Debug\net6.0\04. Sum Adjacent Equal Numbers.runtimeconfig.json
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Arrays and Lists - Exercise\04. Sum Adjacent Equal Numbers\bin\Debug\net6.0\04. Sum Adjacent Equal Numbers.dll
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Arrays and Lists - Exercise\04. Sum Adjacent Equal Numbers\bin\Debug\net6.0\04. Sum Adjacent Equal Numbers.pdb
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Arrays and Lists - Exercise\04. Sum Adjacent Equal Numbers\obj\Debug\net6.0\04. Sum Adjacent Equal Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Arrays and Lists - Exercise\04. Sum Adjacent Equal Numbers\obj\Debug\net6.0\04. Sum Adjacent Equal Numbers.AssemblyInfoInputs.cache
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Arrays and Lists - Exercise\04. Sum Adjacent Equal Numbers\obj\Debug\net6.0\04. Sum Adjacent Equal Numbers.AssemblyInfo.cs
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Arrays and Lists - Exercise\04. Sum Adjacent Equal Numbers\obj\Debug\net6.0\04. Sum Adjacent Equal Numbers.csproj.CoreCompileInputs.cache
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Arrays and Lists - Exercise\04. Sum Adjacent Equal Numbers\obj\Debug\net6.0\04. Sum Adjacent Equal Numbers.dll
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Arrays and Lists - Exercise\04. Sum Adjacent Equal Numbers\obj\Debug\net6.0\refint\04. Sum Adjacent Equal Numbers.dll
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Arrays and Lists - Exercise\04. Sum Adjacent Equal Numbers\obj\Debug\net6.0\04. Sum Adjacent Equal Numbers.pdb
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Arrays and Lists - Exercise\04. Sum Adjacent Equal Numbers\obj\Debug\net6.0\04. Sum Adjacent Equal Numbers.genruntimeconfig.cache
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Arrays and Lists - Exercise\04. Sum Adjacent Equal Numbers\obj\Debug\net6.0\ref\04. Sum Adjacent Equal Numbers.dll

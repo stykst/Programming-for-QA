@@ -1,0 +1,14 @@
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Arrays and Lists - Exercise\10. Top Integers\bin\Debug\net6.0\10. Top Integers.exe
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Arrays and Lists - Exercise\10. Top Integers\bin\Debug\net6.0\10. Top Integers.deps.json
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Arrays and Lists - Exercise\10. Top Integers\bin\Debug\net6.0\10. Top Integers.runtimeconfig.json
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Arrays and Lists - Exercise\10. Top Integers\bin\Debug\net6.0\10. Top Integers.dll
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Arrays and Lists - Exercise\10. Top Integers\bin\Debug\net6.0\10. Top Integers.pdb
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Arrays and Lists - Exercise\10. Top Integers\obj\Debug\net6.0\10. Top Integers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Arrays and Lists - Exercise\10. Top Integers\obj\Debug\net6.0\10. Top Integers.AssemblyInfoInputs.cache
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Arrays and Lists - Exercise\10. Top Integers\obj\Debug\net6.0\10. Top Integers.AssemblyInfo.cs
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Arrays and Lists - Exercise\10. Top Integers\obj\Debug\net6.0\10. Top Integers.csproj.CoreCompileInputs.cache
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Arrays and Lists - Exercise\10. Top Integers\obj\Debug\net6.0\10. Top Integers.dll
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Arrays and Lists - Exercise\10. Top Integers\obj\Debug\net6.0\refint\10. Top Integers.dll
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Arrays and Lists - Exercise\10. Top Integers\obj\Debug\net6.0\10. Top Integers.pdb
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Arrays and Lists - Exercise\10. Top Integers\obj\Debug\net6.0\10. Top Integers.genruntimeconfig.cache
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Arrays and Lists - Exercise\10. Top Integers\obj\Debug\net6.0\ref\10. Top Integers.dll

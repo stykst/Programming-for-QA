@@ -1,0 +1,14 @@
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Arrays and Lists - Exercise\01. Gauss' Trick\bin\Debug\net6.0\01. Gauss' Trick.exe
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Arrays and Lists - Exercise\01. Gauss' Trick\bin\Debug\net6.0\01. Gauss' Trick.deps.json
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Arrays and Lists - Exercise\01. Gauss' Trick\bin\Debug\net6.0\01. Gauss' Trick.runtimeconfig.json
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Arrays and Lists - Exercise\01. Gauss' Trick\bin\Debug\net6.0\01. Gauss' Trick.dll
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Arrays and Lists - Exercise\01. Gauss' Trick\bin\Debug\net6.0\01. Gauss' Trick.pdb
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Arrays and Lists - Exercise\01. Gauss' Trick\obj\Debug\net6.0\01. Gauss' Trick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Arrays and Lists - Exercise\01. Gauss' Trick\obj\Debug\net6.0\01. Gauss' Trick.AssemblyInfoInputs.cache
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Arrays and Lists - Exercise\01. Gauss' Trick\obj\Debug\net6.0\01. Gauss' Trick.AssemblyInfo.cs
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Arrays and Lists - Exercise\01. Gauss' Trick\obj\Debug\net6.0\01. Gauss' Trick.csproj.CoreCompileInputs.cache
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Arrays and Lists - Exercise\01. Gauss' Trick\obj\Debug\net6.0\01. Gauss' Trick.dll
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Arrays and Lists - Exercise\01. Gauss' Trick\obj\Debug\net6.0\refint\01. Gauss' Trick.dll
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Arrays and Lists - Exercise\01. Gauss' Trick\obj\Debug\net6.0\01. Gauss' Trick.pdb
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Arrays and Lists - Exercise\01. Gauss' Trick\obj\Debug\net6.0\01. Gauss' Trick.genruntimeconfig.cache
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Arrays and Lists - Exercise\01. Gauss' Trick\obj\Debug\net6.0\ref\01. Gauss' Trick.dll

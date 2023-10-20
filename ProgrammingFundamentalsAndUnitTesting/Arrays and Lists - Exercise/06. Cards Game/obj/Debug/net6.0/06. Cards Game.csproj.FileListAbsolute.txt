@@ -1,0 +1,14 @@
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Arrays and Lists - Exercise\06. Cards Game\bin\Debug\net6.0\06. Cards Game.exe
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Arrays and Lists - Exercise\06. Cards Game\bin\Debug\net6.0\06. Cards Game.deps.json
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Arrays and Lists - Exercise\06. Cards Game\bin\Debug\net6.0\06. Cards Game.runtimeconfig.json
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Arrays and Lists - Exercise\06. Cards Game\bin\Debug\net6.0\06. Cards Game.dll
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Arrays and Lists - Exercise\06. Cards Game\bin\Debug\net6.0\06. Cards Game.pdb
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Arrays and Lists - Exercise\06. Cards Game\obj\Debug\net6.0\06. Cards Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Arrays and Lists - Exercise\06. Cards Game\obj\Debug\net6.0\06. Cards Game.AssemblyInfoInputs.cache
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Arrays and Lists - Exercise\06. Cards Game\obj\Debug\net6.0\06. Cards Game.AssemblyInfo.cs
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Arrays and Lists - Exercise\06. Cards Game\obj\Debug\net6.0\06. Cards Game.csproj.CoreCompileInputs.cache
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Arrays and Lists - Exercise\06. Cards Game\obj\Debug\net6.0\06. Cards Game.dll
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Arrays and Lists - Exercise\06. Cards Game\obj\Debug\net6.0\refint\06. Cards Game.dll
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Arrays and Lists - Exercise\06. Cards Game\obj\Debug\net6.0\06. Cards Game.pdb
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Arrays and Lists - Exercise\06. Cards Game\obj\Debug\net6.0\06. Cards Game.genruntimeconfig.cache
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Arrays and Lists - Exercise\06. Cards Game\obj\Debug\net6.0\ref\06. Cards Game.dll
