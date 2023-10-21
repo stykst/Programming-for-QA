@@ -1,16 +1,13 @@
 ﻿var numbers = Console.ReadLine()
-            .Split(' ')
+            .Split()
             .Select(int.Parse)
             .ToList();
 
 while (true)
 {
-    string command = Console.ReadLine();
+    var command = Console.ReadLine();
 
-    if (command == "end")
-    {
-        break;
-    }
+    if (command == "end") break;
 
     var tokens = command.Split();
 
@@ -39,21 +36,10 @@ while (true)
 
             switch (condition)
             {
-                case "<":
-                    Console.WriteLine(string.Join(" ", numbers.Where(n => n < number)));
-                    break;
-
-                case ">":
-                    Console.WriteLine(string.Join(" ", numbers.Where(n => n > number)));
-                    break;
-
-                case "<=":
-                    Console.WriteLine(string.Join(" ", numbers.Where(n => n <= number)));
-                    break;
-
-                case ">=":
-                    Console.WriteLine(string.Join(" ", numbers.Where(n => n >= number)));
-                    break;
+                case "<": numbers.RemoveAll(n => n >= number); break;
+                case ">": numbers.RemoveAll(n => n <= number); break;
+                case "<=": numbers.RemoveAll(n => n > number); break;
+                case ">=": numbers.RemoveAll(n => n < number); break;
             }
 
             break;
