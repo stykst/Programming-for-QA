@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\k_sto\\source\\repos\\Nested Loops and Methods - Exercise\\03. Unique PIN Codes\\03. Unique PIN Codes.csproj": {}
+    "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Nested Loops and Methods - Exercise\\03. Unique PIN Codes\\03. Unique PIN Codes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\k_sto\\source\\repos\\Nested Loops and Methods - Exercise\\03. Unique PIN Codes\\03. Unique PIN Codes.csproj": {
+    "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Nested Loops and Methods - Exercise\\03. Unique PIN Codes\\03. Unique PIN Codes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\k_sto\\source\\repos\\Nested Loops and Methods - Exercise\\03. Unique PIN Codes\\03. Unique PIN Codes.csproj",
+        "projectUniqueName": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Nested Loops and Methods - Exercise\\03. Unique PIN Codes\\03. Unique PIN Codes.csproj",
         "projectName": "03. Unique PIN Codes",
-        "projectPath": "C:\\Users\\k_sto\\source\\repos\\Nested Loops and Methods - Exercise\\03. Unique PIN Codes\\03. Unique PIN Codes.csproj",
+        "projectPath": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Nested Loops and Methods - Exercise\\03. Unique PIN Codes\\03. Unique PIN Codes.csproj",
         "packagesPath": "C:\\Users\\k_sto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\k_sto\\source\\repos\\Nested Loops and Methods - Exercise\\03. Unique PIN Codes\\obj\\",
+        "outputPath": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Nested Loops and Methods - Exercise\\03. Unique PIN Codes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\k_sto\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
