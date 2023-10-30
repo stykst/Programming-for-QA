@@ -39,9 +39,7 @@ public class FactorialTests
         // Arrange
         var n = -12;
 
-        // Act
-
-        // Assert
+        // Act & Assert
         Assert.Throws<ArgumentOutOfRangeException>(() => { Factorial.CalculateFactorial(n); });
     }
 }
