@@ -6,7 +6,6 @@ namespace TestApp.UnitTests;
 
 public class DuplicatesTests
 {
-    // TODO: finish test
     [Test]
     public void Test_RemoveDuplicates_EmptyArray_ReturnsEmptyArray()
     {
@@ -14,17 +13,20 @@ public class DuplicatesTests
         int[] numbers = Array.Empty<int>();
 
         // Act
+        var result = Duplicates.RemoveDuplicates(numbers);
 
         // Assert
+        Assert.IsEmpty(result);
     }
 
-    // TODO: finish test
     [Test]
     public void Test_RemoveDuplicates_NoDuplicates_ReturnsOriginalArray()
     {
         // Arrange
+        int[] numbers = new[] { 1, 2, 3, 4, 5};
 
         // Act
+        var result = Duplicates.RemoveDuplicates(numbers);
 
         // Assert
         Assert.That(result, Is.EqualTo(numbers));
@@ -33,12 +35,28 @@ public class DuplicatesTests
     [Test]
     public void Test_RemoveDuplicates_SomeDuplicates_ReturnsUniqueArray()
     {
-        // TODO: finish test
+        // Arrange
+        int[] numbers = new[] { 1, 2, 2, 3, 4, 4, 5 };
+
+        // Act
+        int[] expected = new[] { 1, 2, 3, 4, 5 };
+        var result = Duplicates.RemoveDuplicates(numbers);
+
+        // Assert
+        Assert.That(result, Is.EqualTo(expected));
     }
 
     [Test]
     public void Test_RemoveDuplicates_AllDuplicates_ReturnsSingleElementArray()
     {
-        // TODO: finish test
+        // Arrange
+        int[] numbers = new[] { 2, 2, 2, 2, 2, 2, 2 };
+
+        // Act
+        int[] expected = new[] { 2 };
+        var result = Duplicates.RemoveDuplicates(numbers);
+
+        // Assert
+        Assert.That(result, Is.EqualTo(expected));
     }
 }

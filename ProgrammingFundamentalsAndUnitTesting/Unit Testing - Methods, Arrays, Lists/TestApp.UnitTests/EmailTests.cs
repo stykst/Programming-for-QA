@@ -4,27 +4,33 @@ namespace TestApp.UnitTests;
 
 public class EmailTests
 {
-    // TODO: finish test
     [Test]
     public void Test_IsValidEmail_ValidEmail()
     {
         // Arrange
         string validEmail = "test@example.com";
 
-        // Act
-
-        // Assert
+        // Act & Assert
+        Assert.IsTrue(Email.IsValidEmail(validEmail));
     }
 
     [Test]
     public void Test_IsValidEmail_InvalidEmail()
     {
-        // TODO: finish test
+        // Arrange
+        string validEmail = "test.example.com";
+
+        // Act & Assert
+        Assert.IsFalse(Email.IsValidEmail(validEmail));
     }
 
     [Test]
     public void Test_IsValidEmail_NullInput()
     {
-        // TODO: finish test
+        // Arrange
+        string validEmail = null;
+
+        // Act & Assert
+        Assert.IsFalse(Email.IsValidEmail(validEmail));
     }
 }

@@ -9,7 +9,7 @@ public class Matrix
         List<List<int>> matrixA, 
         List<List<int>> matrixB)
     {
-        if (matrixA.Count == 0 || matrixB.Count == 0)
+        if (matrixA.Count == 0 && matrixB.Count == 0)
         {
             return new();
         }

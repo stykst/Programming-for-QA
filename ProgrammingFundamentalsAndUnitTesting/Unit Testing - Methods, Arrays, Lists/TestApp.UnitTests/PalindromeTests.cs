@@ -6,19 +6,19 @@ namespace TestApp.UnitTests;
 
 public class PalindromeTests
 {
-    // TODO: finish test
     [Test]
     public void Test_IsPalindrome_ValidPalindrome_ReturnsTrue()
     {
         // Arrange
+        var words = new List<string> { "abba", "aha" };
 
         // Act
+        var result = Palindrome.IsPalindrome(words);
 
         // Assert
         Assert.IsTrue(result);
     }
 
-    // TODO: finish test
     [Test]
     public void Test_IsPalindrome_EmptyList_ReturnsTrue()
     {
@@ -26,25 +26,48 @@ public class PalindromeTests
         List<string> words = new();
 
         // Act
+        var result = Palindrome.IsPalindrome(words);
 
         // Assert
+        Assert.IsTrue(result);
     }
 
     [Test]
     public void Test_IsPalindrome_SingleWord_ReturnsTrue()
     {
-        // TODO: finish test
+        // Arrange
+        var words = new List<string> { "abba" };
+
+        // Act
+        var result = Palindrome.IsPalindrome(words);
+
+        // Assert
+        Assert.IsTrue(result);
     }
 
     [Test]
     public void Test_IsPalindrome_NonPalindrome_ReturnsFalse()
     {
-        // TODO: finish test
+        // Arrange
+        var words = new List<string> { "ac/dc", "Metallica" };
+
+        // Act
+        var result = Palindrome.IsPalindrome(words);
+
+        // Assert
+        Assert.IsFalse(result);
     }
 
     [Test]
     public void Test_IsPalindrome_MixedCasePalindrome_ReturnsTrue()
     {
-        // TODO: finish test
+        // Arrange
+        var words = new List<string> { "Abba", "aHa" };
+
+        // Act
+        var result = Palindrome.IsPalindrome(words);
+
+        // Assert
+        Assert.IsTrue(result);
     }
 }

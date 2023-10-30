@@ -17,12 +17,26 @@ public class FibonacciTests
     [Test]
     public void Test_CalculateFibonacci_ZeroInput()
     {
-        // TODO: finish the test
+        // Arrange
+        int n = 0;
+
+        // Act
+        var result = Fibonacci.CalculateFibonacci(n);
+
+        // Assert
+        Assert.That(result, Is.EqualTo(n));
     }
 
     [Test]
     public void Test_CalculateFibonacci_PositiveInput()
     {
-        // TODO: finish the test
+        // Arrange
+        int n = 10;
+
+        // Act
+        var result = Fibonacci.CalculateFibonacci(n);
+
+        // Assert
+        Assert.That(result, Is.EqualTo(55));
     }
 }
