@@ -14,13 +14,13 @@ public class CenterPointTests
         var y1 = 0.1;
         var y2 = 2.9;
 
-        var expected = (0.9, 0.1);
+        var expected = "(0.9, 0.1)";
 
         // Act
         var result = CenterPoint.GetClosest(x1, y1, x2, y2);
 
         // Assert
-        Assert.That(result, Is.EqualTo(expected.ToString()));
+        Assert.That(result, Is.EqualTo(expected));
     }
 
     [Test]
@@ -32,13 +32,13 @@ public class CenterPointTests
         var y1 = 7.1;
         var y2 = 2.9;
 
-        var expected = (4.9, 2.9);
+        var expected = "(4.9, 2.9)";
 
         // Act
         var result = CenterPoint.GetClosest(x1, y1, x2, y2);
 
         // Assert
-        Assert.That(result, Is.EqualTo(expected.ToString()));
+        Assert.That(result, Is.EqualTo(expected));
     }
 
     [Test]
@@ -50,13 +50,13 @@ public class CenterPointTests
         var y1 = 2;
         var y2 = 2;
 
-        var expected = (1, 2);
+        var expected = "(1, 2)";
 
         // Act
         var result = CenterPoint.GetClosest(x1, y1, x2, y2);
 
         // Assert
-        Assert.That(result, Is.EqualTo(expected.ToString()));
+        Assert.That(result, Is.EqualTo(expected));
     }
 
     [Test]
@@ -68,13 +68,13 @@ public class CenterPointTests
         var y1 = -2;
         var y2 = 2;
 
-        var expected = (-1, -2);
+        var expected = "(-1, -2)";
 
         // Act
         var result = CenterPoint.GetClosest(x1, y1, x2, y2);
 
         // Assert
-        Assert.That(result, Is.EqualTo(expected.ToString()));
+        Assert.That(result, Is.EqualTo(expected));
     }
 
     [Test]
