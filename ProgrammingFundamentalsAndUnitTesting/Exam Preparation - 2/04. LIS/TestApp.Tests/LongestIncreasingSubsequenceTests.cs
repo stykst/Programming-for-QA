@@ -8,30 +8,63 @@ public class LongestIncreasingSubsequenceTests
     [Test]
     public void Test_GetLis_NullArray_ThrowsArgumentNullException()
     {
-        // TODO: implement the test
+        // Arrange
+        int[] arr = null;
+
+        //Act + Assert
+        Assert.Throws<ArgumentNullException>(() => LongestIncreasingSubsequence.GetLis(arr));
     }
 
     [Test]
     public void Test_GetLis_EmptyArray_ReturnsEmptyString()
     {
-        // TODO: implement the test
+        // Arrange
+        int[] arr = Array.Empty<int>();
+
+        // Act
+        var result = LongestIncreasingSubsequence.GetLis(arr);
+
+        // Assert
+        Assert.IsEmpty(result);
     }
 
     [Test]
     public void Test_GetLis_SingleElementArray_ReturnsElement()
     {
-        // TODO: implement the test
+        // Arrange
+        int[] arr = new[] { 15 };
+
+        // Act
+        var result = LongestIncreasingSubsequence.GetLis(arr);
+
+        // Assert
+        Assert.That(result, Is.EqualTo("15"));
     }
 
     [Test]
     public void Test_GetLis_UnsortedArray_ReturnsLongestIncreasingSubsequence()
     {
-        // TODO: implement the test
+        // Arrange
+        int[] arr = new[] { 121, 35, 15, 25, 30, 15, 35, 12 };
+        var expected = "15 25 30 35";
+
+        // Act
+        var result = LongestIncreasingSubsequence.GetLis(arr);
+
+        // Assert
+        Assert.That(result, Is.EqualTo(expected));
     }
 
     [Test]
     public void Test_GetLis_SortedArray_ReturnsItself()
-    {
-        // TODO: implement the test
+    {// Arrange
+        int[] arr = new[] { 15, 25, 30, 35 };
+        var expected = "15 25 30 35";
+
+        // Act
+        var result = LongestIncreasingSubsequence.GetLis(arr);
+
+        // Assert
+        Assert.That(result, Is.EqualTo(expected));
     }
 }

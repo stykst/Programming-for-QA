@@ -1,0 +1,11 @@
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Exam Preparation - 2\03. Pascal Triangle\TestApp\bin\Debug\net6.0\TestApp.deps.json
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Exam Preparation - 2\03. Pascal Triangle\TestApp\bin\Debug\net6.0\TestApp.dll
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Exam Preparation - 2\03. Pascal Triangle\TestApp\bin\Debug\net6.0\TestApp.pdb
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Exam Preparation - 2\03. Pascal Triangle\TestApp\obj\Debug\net6.0\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Exam Preparation - 2\03. Pascal Triangle\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfoInputs.cache
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Exam Preparation - 2\03. Pascal Triangle\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfo.cs
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Exam Preparation - 2\03. Pascal Triangle\TestApp\obj\Debug\net6.0\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Exam Preparation - 2\03. Pascal Triangle\TestApp\obj\Debug\net6.0\TestApp.dll
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Exam Preparation - 2\03. Pascal Triangle\TestApp\obj\Debug\net6.0\refint\TestApp.dll
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Exam Preparation - 2\03. Pascal Triangle\TestApp\obj\Debug\net6.0\TestApp.pdb
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\Exam Preparation - 2\03. Pascal Triangle\TestApp\obj\Debug\net6.0\ref\TestApp.dll
