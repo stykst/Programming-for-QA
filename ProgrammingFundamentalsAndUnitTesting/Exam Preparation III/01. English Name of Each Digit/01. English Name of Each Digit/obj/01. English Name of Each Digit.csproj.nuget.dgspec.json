@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Exam Preparation - 3\\01. English Name of Each Digit\\01. English Name of Each Digit\\01. English Name of Each Digit.csproj": {}
+    "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Exam Preparation III\\01. English Name of Each Digit\\01. English Name of Each Digit\\01. English Name of Each Digit.csproj": {}
   },
   "projects": {
-    "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Exam Preparation - 3\\01. English Name of Each Digit\\01. English Name of Each Digit\\01. English Name of Each Digit.csproj": {
+    "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Exam Preparation III\\01. English Name of Each Digit\\01. English Name of Each Digit\\01. English Name of Each Digit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Exam Preparation - 3\\01. English Name of Each Digit\\01. English Name of Each Digit\\01. English Name of Each Digit.csproj",
+        "projectUniqueName": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Exam Preparation III\\01. English Name of Each Digit\\01. English Name of Each Digit\\01. English Name of Each Digit.csproj",
         "projectName": "01. English Name of Each Digit",
-        "projectPath": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Exam Preparation - 3\\01. English Name of Each Digit\\01. English Name of Each Digit\\01. English Name of Each Digit.csproj",
+        "projectPath": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Exam Preparation III\\01. English Name of Each Digit\\01. English Name of Each Digit\\01. English Name of Each Digit.csproj",
         "packagesPath": "C:\\Users\\k_sto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Exam Preparation - 3\\01. English Name of Each Digit\\01. English Name of Each Digit\\obj\\",
+        "outputPath": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Exam Preparation III\\01. English Name of Each Digit\\01. English Name of Each Digit\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\k_sto\\AppData\\Roaming\\NuGet\\NuGet.Config",
