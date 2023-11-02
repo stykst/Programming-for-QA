@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Exam Preparation - 3\\02. Average Last Elements\\02. Average Last Elements\\02. Average Last Elements.csproj": {}
+    "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Exam Preparation III\\02. Average Last Elements\\02. Average Last Elements\\02. Average Last Elements.csproj": {}
   },
   "projects": {
-    "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Exam Preparation - 3\\02. Average Last Elements\\02. Average Last Elements\\02. Average Last Elements.csproj": {
+    "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Exam Preparation III\\02. Average Last Elements\\02. Average Last Elements\\02. Average Last Elements.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Exam Preparation - 3\\02. Average Last Elements\\02. Average Last Elements\\02. Average Last Elements.csproj",
+        "projectUniqueName": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Exam Preparation III\\02. Average Last Elements\\02. Average Last Elements\\02. Average Last Elements.csproj",
         "projectName": "02. Average Last Elements",
-        "projectPath": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Exam Preparation - 3\\02. Average Last Elements\\02. Average Last Elements\\02. Average Last Elements.csproj",
+        "projectPath": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Exam Preparation III\\02. Average Last Elements\\02. Average Last Elements\\02. Average Last Elements.csproj",
         "packagesPath": "C:\\Users\\k_sto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Exam Preparation - 3\\02. Average Last Elements\\02. Average Last Elements\\obj\\",
+        "outputPath": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingFundamentalsAndUnitTesting\\Exam Preparation III\\02. Average Last Elements\\02. Average Last Elements\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\k_sto\\AppData\\Roaming\\NuGet\\NuGet.Config",
