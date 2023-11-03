@@ -1,0 +1,14 @@
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\01. Conditional Statements - Lab\12. Coffee Shop with Checks\bin\Debug\net6.0\12. Coffee Shop with Checks.exe
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\01. Conditional Statements - Lab\12. Coffee Shop with Checks\bin\Debug\net6.0\12. Coffee Shop with Checks.deps.json
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\01. Conditional Statements - Lab\12. Coffee Shop with Checks\bin\Debug\net6.0\12. Coffee Shop with Checks.runtimeconfig.json
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\01. Conditional Statements - Lab\12. Coffee Shop with Checks\bin\Debug\net6.0\12. Coffee Shop with Checks.dll
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\01. Conditional Statements - Lab\12. Coffee Shop with Checks\bin\Debug\net6.0\12. Coffee Shop with Checks.pdb
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\01. Conditional Statements - Lab\12. Coffee Shop with Checks\obj\Debug\net6.0\12. Coffee Shop with Checks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\01. Conditional Statements - Lab\12. Coffee Shop with Checks\obj\Debug\net6.0\12. Coffee Shop with Checks.AssemblyInfoInputs.cache
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\01. Conditional Statements - Lab\12. Coffee Shop with Checks\obj\Debug\net6.0\12. Coffee Shop with Checks.AssemblyInfo.cs
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\01. Conditional Statements - Lab\12. Coffee Shop with Checks\obj\Debug\net6.0\12. Coffee Shop with Checks.csproj.CoreCompileInputs.cache
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\01. Conditional Statements - Lab\12. Coffee Shop with Checks\obj\Debug\net6.0\12. Coffee Shop with Checks.dll
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\01. Conditional Statements - Lab\12. Coffee Shop with Checks\obj\Debug\net6.0\refint\12. Coffee Shop with Checks.dll
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\01. Conditional Statements - Lab\12. Coffee Shop with Checks\obj\Debug\net6.0\12. Coffee Shop with Checks.pdb
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\01. Conditional Statements - Lab\12. Coffee Shop with Checks\obj\Debug\net6.0\12. Coffee Shop with Checks.genruntimeconfig.cache
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\01. Conditional Statements - Lab\12. Coffee Shop with Checks\obj\Debug\net6.0\ref\12. Coffee Shop with Checks.dll
