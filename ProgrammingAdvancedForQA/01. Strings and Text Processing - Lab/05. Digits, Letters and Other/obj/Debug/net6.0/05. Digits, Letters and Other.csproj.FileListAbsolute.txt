@@ -1,0 +1,14 @@
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\01. Strings and Text Processing - Lab\05. Digits, Letters and Other\bin\Debug\net6.0\05. Digits, Letters and Other.exe
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\01. Strings and Text Processing - Lab\05. Digits, Letters and Other\bin\Debug\net6.0\05. Digits, Letters and Other.deps.json
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\01. Strings and Text Processing - Lab\05. Digits, Letters and Other\bin\Debug\net6.0\05. Digits, Letters and Other.runtimeconfig.json
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\01. Strings and Text Processing - Lab\05. Digits, Letters and Other\bin\Debug\net6.0\05. Digits, Letters and Other.dll
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\01. Strings and Text Processing - Lab\05. Digits, Letters and Other\bin\Debug\net6.0\05. Digits, Letters and Other.pdb
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\01. Strings and Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\net6.0\05. Digits, Letters and Other.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\01. Strings and Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\net6.0\05. Digits, Letters and Other.AssemblyInfoInputs.cache
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\01. Strings and Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\net6.0\05. Digits, Letters and Other.AssemblyInfo.cs
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\01. Strings and Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\net6.0\05. Digits, Letters and Other.csproj.CoreCompileInputs.cache
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\01. Strings and Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\net6.0\05. Digits, Letters and Other.dll
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\01. Strings and Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\net6.0\refint\05. Digits, Letters and Other.dll
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\01. Strings and Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\net6.0\05. Digits, Letters and Other.pdb
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\01. Strings and Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\net6.0\05. Digits, Letters and Other.genruntimeconfig.cache
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\01. Strings and Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\net6.0\ref\05. Digits, Letters and Other.dll
