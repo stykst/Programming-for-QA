@@ -1,0 +1,14 @@
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\19. Regular Exam\02. Rotations\02. Rotations\bin\Debug\net6.0\02. Rotations.exe
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\19. Regular Exam\02. Rotations\02. Rotations\bin\Debug\net6.0\02. Rotations.deps.json
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\19. Regular Exam\02. Rotations\02. Rotations\bin\Debug\net6.0\02. Rotations.runtimeconfig.json
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\19. Regular Exam\02. Rotations\02. Rotations\bin\Debug\net6.0\02. Rotations.dll
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\19. Regular Exam\02. Rotations\02. Rotations\bin\Debug\net6.0\02. Rotations.pdb
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\19. Regular Exam\02. Rotations\02. Rotations\obj\Debug\net6.0\02. Rotations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\19. Regular Exam\02. Rotations\02. Rotations\obj\Debug\net6.0\02. Rotations.AssemblyInfoInputs.cache
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\19. Regular Exam\02. Rotations\02. Rotations\obj\Debug\net6.0\02. Rotations.AssemblyInfo.cs
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\19. Regular Exam\02. Rotations\02. Rotations\obj\Debug\net6.0\02. Rotations.csproj.CoreCompileInputs.cache
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\19. Regular Exam\02. Rotations\02. Rotations\obj\Debug\net6.0\02. Rotations.dll
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\19. Regular Exam\02. Rotations\02. Rotations\obj\Debug\net6.0\refint\02. Rotations.dll
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\19. Regular Exam\02. Rotations\02. Rotations\obj\Debug\net6.0\02. Rotations.pdb
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\19. Regular Exam\02. Rotations\02. Rotations\obj\Debug\net6.0\02. Rotations.genruntimeconfig.cache
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingFundamentalsAndUnitTesting\19. Regular Exam\02. Rotations\02. Rotations\obj\Debug\net6.0\ref\02. Rotations.dll
