@@ -1,0 +1,14 @@
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\05. Dictionaries, Lambda and LINQ - Exercise\06. Company Users\bin\Debug\net6.0\06. Company Users.exe
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\05. Dictionaries, Lambda and LINQ - Exercise\06. Company Users\bin\Debug\net6.0\06. Company Users.deps.json
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\05. Dictionaries, Lambda and LINQ - Exercise\06. Company Users\bin\Debug\net6.0\06. Company Users.runtimeconfig.json
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\05. Dictionaries, Lambda and LINQ - Exercise\06. Company Users\bin\Debug\net6.0\06. Company Users.dll
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\05. Dictionaries, Lambda and LINQ - Exercise\06. Company Users\bin\Debug\net6.0\06. Company Users.pdb
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\05. Dictionaries, Lambda and LINQ - Exercise\06. Company Users\obj\Debug\net6.0\06. Company Users.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\05. Dictionaries, Lambda and LINQ - Exercise\06. Company Users\obj\Debug\net6.0\06. Company Users.AssemblyInfoInputs.cache
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\05. Dictionaries, Lambda and LINQ - Exercise\06. Company Users\obj\Debug\net6.0\06. Company Users.AssemblyInfo.cs
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\05. Dictionaries, Lambda and LINQ - Exercise\06. Company Users\obj\Debug\net6.0\06. Company Users.csproj.CoreCompileInputs.cache
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\05. Dictionaries, Lambda and LINQ - Exercise\06. Company Users\obj\Debug\net6.0\06. Company Users.dll
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\05. Dictionaries, Lambda and LINQ - Exercise\06. Company Users\obj\Debug\net6.0\refint\06. Company Users.dll
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\05. Dictionaries, Lambda and LINQ - Exercise\06. Company Users\obj\Debug\net6.0\06. Company Users.pdb
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\05. Dictionaries, Lambda and LINQ - Exercise\06. Company Users\obj\Debug\net6.0\06. Company Users.genruntimeconfig.cache
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\05. Dictionaries, Lambda and LINQ - Exercise\06. Company Users\obj\Debug\net6.0\ref\06. Company Users.dll
