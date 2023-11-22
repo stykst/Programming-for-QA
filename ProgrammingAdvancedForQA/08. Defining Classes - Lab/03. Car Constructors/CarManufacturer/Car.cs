@@ -32,31 +32,11 @@ namespace CarManufacturer
             this.fuelConsumption = fuelConsumption;
         }
 
-        public string Make 
-        {
-            get { return make; }
-            set { make = value; }
-        }
-        public string Model 
-        {
-            get { return model; }
-            set { model = value; }
-        }
-        public int Year 
-        {
-            get { return year; }
-            set { year = value; }
-        }
-        public double FuelQuantity 
-        {
-            get { return fuelQuantity; }
-            set { fuelQuantity = value; }
-        }
-        public double FuelConsumption 
-        {
-            get { return fuelConsumption; }
-            set { fuelConsumption = value; }
-        }
+        public string Make { get; set; }
+        public string Model { get; set; }
+        public int Year { get; set; }
+        public double FuelQuantity { get; set; }
+        public double FuelConsumption { get; set; }
 
         public void Drive(double distance)
         {
