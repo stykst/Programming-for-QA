@@ -46,12 +46,7 @@ namespace CarManufacturer
         public double FuelQuantity { get; set; }
         public double FuelConsumption { get; set; }
         public Engine Engine { get; set; }
-
-        public Tire[] Tires
-        {
-            get { return tires; }
-            set { tires = value; }
-        }
+        public Tire[] Tires { get; set; }
 
         public void Drive(double distance)
         {
