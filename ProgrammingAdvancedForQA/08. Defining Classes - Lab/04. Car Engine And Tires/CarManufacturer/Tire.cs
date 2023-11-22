@@ -11,16 +11,8 @@
             Pressure = pressure;
         }
 
-        public int Year
-        {
-            get { return year; }
-            set { year = value; }
-        }
+        public int Year { get; set; }
 
-        public double Pressure
-        {
-            get { return pressure; }
-            set { pressure = value; }
-        }
+        public double Pressure { get; set; }
     }
 }

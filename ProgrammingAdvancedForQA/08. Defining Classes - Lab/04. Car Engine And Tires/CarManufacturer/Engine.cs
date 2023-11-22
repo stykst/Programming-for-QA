@@ -11,16 +11,8 @@
             CubicCapacity = cubicCapacity;
         }
 
-        public int HorsePower
-        {
-            get { return horsePower; }
-            set { horsePower = value; }
-        }
+        public int HorsePower { get; set; }
 
-        public double CubicCapacity
-        {
-            get { return cubicCapacity; }
-            set { cubicCapacity = value; }
-        }
+        public double CubicCapacity { get; set; }
     }
 }
