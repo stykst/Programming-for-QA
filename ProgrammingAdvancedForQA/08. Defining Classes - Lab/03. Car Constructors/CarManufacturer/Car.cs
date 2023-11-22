@@ -21,15 +21,15 @@ namespace CarManufacturer
 
         public Car(string make, string model, int year) : this()
         {
-            this.make = make;
-            this.model = model;
-            this.year = year;
+            Make = make;
+            Model = model;
+            Year = year;
         }
 
         public Car(string make, string model, int year, double fuelQuantity, double fuelConsumption) : this(make, model, year)
         {
-            this.fuelQuantity = fuelQuantity;
-            this.fuelConsumption = fuelConsumption;
+            FuelQuantity = fuelQuantity;
+            FuelConsumption = fuelConsumption;
         }
 
         public string Make { get; set; }
