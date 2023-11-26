@@ -1,26 +1,28 @@
 ﻿namespace _05._Pokemon_Trainer
 {
+    public class Pokemon
+    {
+        public string Name { get; set; }
+        public string Element { get; set; }
+        public int Health { get; set; }
+    }
+
+    public class Trainer
+    {
+        public Trainer(string name)
+        {
+            Name = name;
+            Badges = 0;
+            Pokemons = new List<Pokemon>();
+        }
+
+        public string Name { get; set; }
+        public int Badges { get; set; }
+        public List<Pokemon> Pokemons { get; set; }
+    }
+
     public class Program
     {
-        public class Pokemon
-        {
-            public string Name { get; set; }
-            public string Element { get; set; }
-            public int Health { get; set; }
-        }
-        public class Trainer
-        {
-            public string Name { get; set; }
-            public int Badges { get; set; }
-            public List<Pokemon> Pokemons { get; set; }
-
-            public Trainer(string name)
-            {
-                Name = name;
-                Badges = 0;
-                Pokemons = new List<Pokemon>();
-            }
-        }
         static void Main(string[] args)
         {
             var trainers = new List<Trainer>();

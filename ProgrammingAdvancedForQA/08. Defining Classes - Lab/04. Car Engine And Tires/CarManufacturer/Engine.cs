@@ -12,7 +12,6 @@
         }
 
         public int HorsePower { get; set; }
-
         public double CubicCapacity { get; set; }
     }
 }

@@ -6,6 +6,7 @@
         public string LastName { get; set; }
         public double Grade { get; set; }
     }
+
     public class Program
     {
         static void Main(string[] args)
@@ -31,7 +32,9 @@
                 students.Add(student);
             }
 
-            var sortedStudents = students.OrderByDescending(s => s.Grade).ToList();
+            var sortedStudents = students
+                .OrderByDescending(s => s.Grade)
+                .ToList();
 
             foreach (var student in sortedStudents)
             {
