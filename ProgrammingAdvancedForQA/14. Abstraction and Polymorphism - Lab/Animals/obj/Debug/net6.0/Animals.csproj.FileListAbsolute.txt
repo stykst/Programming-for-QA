@@ -1,0 +1,14 @@
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\14. Abstraction and Polymorphism - Lab\Animals\bin\Debug\net6.0\Animals.exe
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\14. Abstraction and Polymorphism - Lab\Animals\bin\Debug\net6.0\Animals.deps.json
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\14. Abstraction and Polymorphism - Lab\Animals\bin\Debug\net6.0\Animals.runtimeconfig.json
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\14. Abstraction and Polymorphism - Lab\Animals\bin\Debug\net6.0\Animals.dll
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\14. Abstraction and Polymorphism - Lab\Animals\bin\Debug\net6.0\Animals.pdb
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\14. Abstraction and Polymorphism - Lab\Animals\obj\Debug\net6.0\Animals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\14. Abstraction and Polymorphism - Lab\Animals\obj\Debug\net6.0\Animals.AssemblyInfoInputs.cache
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\14. Abstraction and Polymorphism - Lab\Animals\obj\Debug\net6.0\Animals.AssemblyInfo.cs
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\14. Abstraction and Polymorphism - Lab\Animals\obj\Debug\net6.0\Animals.csproj.CoreCompileInputs.cache
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\14. Abstraction and Polymorphism - Lab\Animals\obj\Debug\net6.0\Animals.dll
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\14. Abstraction and Polymorphism - Lab\Animals\obj\Debug\net6.0\refint\Animals.dll
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\14. Abstraction and Polymorphism - Lab\Animals\obj\Debug\net6.0\Animals.pdb
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\14. Abstraction and Polymorphism - Lab\Animals\obj\Debug\net6.0\Animals.genruntimeconfig.cache
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\14. Abstraction and Polymorphism - Lab\Animals\obj\Debug\net6.0\ref\Animals.dll

@@ -1,0 +1,14 @@
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\14. Abstraction and Polymorphism - Lab\Raiding\bin\Debug\net6.0\Raiding.exe
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\14. Abstraction and Polymorphism - Lab\Raiding\bin\Debug\net6.0\Raiding.deps.json
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\14. Abstraction and Polymorphism - Lab\Raiding\bin\Debug\net6.0\Raiding.runtimeconfig.json
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\14. Abstraction and Polymorphism - Lab\Raiding\bin\Debug\net6.0\Raiding.dll
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\14. Abstraction and Polymorphism - Lab\Raiding\bin\Debug\net6.0\Raiding.pdb
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\14. Abstraction and Polymorphism - Lab\Raiding\obj\Debug\net6.0\Raiding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\14. Abstraction and Polymorphism - Lab\Raiding\obj\Debug\net6.0\Raiding.AssemblyInfoInputs.cache
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\14. Abstraction and Polymorphism - Lab\Raiding\obj\Debug\net6.0\Raiding.AssemblyInfo.cs
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\14. Abstraction and Polymorphism - Lab\Raiding\obj\Debug\net6.0\Raiding.csproj.CoreCompileInputs.cache
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\14. Abstraction and Polymorphism - Lab\Raiding\obj\Debug\net6.0\Raiding.dll
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\14. Abstraction and Polymorphism - Lab\Raiding\obj\Debug\net6.0\refint\Raiding.dll
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\14. Abstraction and Polymorphism - Lab\Raiding\obj\Debug\net6.0\Raiding.pdb
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\14. Abstraction and Polymorphism - Lab\Raiding\obj\Debug\net6.0\Raiding.genruntimeconfig.cache
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\14. Abstraction and Polymorphism - Lab\Raiding\obj\Debug\net6.0\ref\Raiding.dll
