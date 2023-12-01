@@ -1,0 +1,14 @@
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\13. Encapsulation and Inheritance - Lab\PersonInfo\bin\Debug\net6.0\PersonInfo.exe
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\13. Encapsulation and Inheritance - Lab\PersonInfo\bin\Debug\net6.0\PersonInfo.deps.json
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\13. Encapsulation and Inheritance - Lab\PersonInfo\bin\Debug\net6.0\PersonInfo.runtimeconfig.json
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\13. Encapsulation and Inheritance - Lab\PersonInfo\bin\Debug\net6.0\PersonInfo.dll
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\13. Encapsulation and Inheritance - Lab\PersonInfo\bin\Debug\net6.0\PersonInfo.pdb
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\13. Encapsulation and Inheritance - Lab\PersonInfo\obj\Debug\net6.0\PersonInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\13. Encapsulation and Inheritance - Lab\PersonInfo\obj\Debug\net6.0\PersonInfo.AssemblyInfoInputs.cache
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\13. Encapsulation and Inheritance - Lab\PersonInfo\obj\Debug\net6.0\PersonInfo.AssemblyInfo.cs
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\13. Encapsulation and Inheritance - Lab\PersonInfo\obj\Debug\net6.0\PersonInfo.csproj.CoreCompileInputs.cache
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\13. Encapsulation and Inheritance - Lab\PersonInfo\obj\Debug\net6.0\PersonInfo.dll
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\13. Encapsulation and Inheritance - Lab\PersonInfo\obj\Debug\net6.0\refint\PersonInfo.dll
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\13. Encapsulation and Inheritance - Lab\PersonInfo\obj\Debug\net6.0\PersonInfo.pdb
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\13. Encapsulation and Inheritance - Lab\PersonInfo\obj\Debug\net6.0\PersonInfo.genruntimeconfig.cache
+C:\Users\k_sto\source\repos\ProgrammingForQA\ProgrammingAdvancedForQA\13. Encapsulation and Inheritance - Lab\PersonInfo\obj\Debug\net6.0\ref\PersonInfo.dll
