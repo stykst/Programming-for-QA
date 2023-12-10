@@ -1,7 +1,6 @@
 ﻿using System;
 
 namespace PersonInfo;
-
 public class Person
 {
     public string FirstName { get; private set; }

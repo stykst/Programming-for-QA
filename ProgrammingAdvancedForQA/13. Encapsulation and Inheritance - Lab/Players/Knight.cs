@@ -1,7 +1,5 @@
-﻿namespace Players
+﻿namespace Players;
+public class Knight : Hero
 {
-    public class Knight : Hero
-    {
-        public Knight(string username, int level) : base(username, level) { }
-    }
+    public Knight(string username, int level) : base(username, level) { }
 }

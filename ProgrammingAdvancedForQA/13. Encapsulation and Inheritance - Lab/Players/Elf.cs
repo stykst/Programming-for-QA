@@ -1,7 +1,5 @@
-﻿namespace Players
+﻿namespace Players;
+public class Elf : Hero
 {
-    public class Elf : Hero
-    {
-        public Elf(string username, int level) : base(username, level) { }
-    }
+    public Elf(string username, int level) : base(username, level) { }
 }

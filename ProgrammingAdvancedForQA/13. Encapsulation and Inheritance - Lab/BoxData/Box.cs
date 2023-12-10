@@ -1,7 +1,6 @@
 ﻿using System;
 
 namespace BoxData;
-
 public class Box
 {
     public double Length { get; }

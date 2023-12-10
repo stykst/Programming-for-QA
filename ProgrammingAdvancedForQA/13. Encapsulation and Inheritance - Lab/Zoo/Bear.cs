@@ -1,7 +1,5 @@
-﻿namespace Zoo
+﻿namespace Zoo;
+public class Bear : Mammal
 {
-    public class Bear : Mammal
-    {
-        public Bear(string name) : base(name) { }
-    }
+    public Bear(string name) : base(name) { }
 }
