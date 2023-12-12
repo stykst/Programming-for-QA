@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AmbRJtO+s0rUZx53UV+qjWvke+hLHu2H76VN0G2YCLcqqdiMwpYsZDc6XKajJEifweonegtCVuMf4uiAzJteeQ==",
+  "dgSpecHash": "/o55nBQDTluQvg9vr7yWgr+N06b/2UBV3LRfjxWcFQ2MYRpWeNwRttpNqf8Uobl1120+f3bO17eKjUV7L/829w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingAdvancedForQA\\06-Resources-Unit-Testing-Exercise-Dictionaries\\TestApp.Tests\\TestApp.Tests.csproj",
+  "projectFilePath": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingAdvancedForQA\\06. Dictionaries, Lambda and LINQ - Unit Testing Exercise\\TestApp.Tests\\TestApp.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\k_sto\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\k_sto\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",

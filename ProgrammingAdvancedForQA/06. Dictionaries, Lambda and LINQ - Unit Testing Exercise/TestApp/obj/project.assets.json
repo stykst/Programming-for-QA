@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingAdvancedForQA\\06-Resources-Unit-Testing-Exercise-Dictionaries\\TestApp\\TestApp.csproj",
+      "projectUniqueName": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingAdvancedForQA\\06. Dictionaries, Lambda and LINQ - Unit Testing Exercise\\TestApp\\TestApp.csproj",
       "projectName": "TestApp",
-      "projectPath": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingAdvancedForQA\\06-Resources-Unit-Testing-Exercise-Dictionaries\\TestApp\\TestApp.csproj",
+      "projectPath": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingAdvancedForQA\\06. Dictionaries, Lambda and LINQ - Unit Testing Exercise\\TestApp\\TestApp.csproj",
       "packagesPath": "C:\\Users\\k_sto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingAdvancedForQA\\06-Resources-Unit-Testing-Exercise-Dictionaries\\TestApp\\obj\\",
+      "outputPath": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingAdvancedForQA\\06. Dictionaries, Lambda and LINQ - Unit Testing Exercise\\TestApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\k_sto\\AppData\\Roaming\\NuGet\\NuGet.Config",

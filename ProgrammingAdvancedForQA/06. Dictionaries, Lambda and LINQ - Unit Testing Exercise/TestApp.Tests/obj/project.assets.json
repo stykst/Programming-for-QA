@@ -1008,11 +1008,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingAdvancedForQA\\06-Resources-Unit-Testing-Exercise-Dictionaries\\TestApp.Tests\\TestApp.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingAdvancedForQA\\06. Dictionaries, Lambda and LINQ - Unit Testing Exercise\\TestApp.Tests\\TestApp.Tests.csproj",
       "projectName": "TestApp.Tests",
-      "projectPath": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingAdvancedForQA\\06-Resources-Unit-Testing-Exercise-Dictionaries\\TestApp.Tests\\TestApp.Tests.csproj",
+      "projectPath": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingAdvancedForQA\\06. Dictionaries, Lambda and LINQ - Unit Testing Exercise\\TestApp.Tests\\TestApp.Tests.csproj",
       "packagesPath": "C:\\Users\\k_sto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingAdvancedForQA\\06-Resources-Unit-Testing-Exercise-Dictionaries\\TestApp.Tests\\obj\\",
+      "outputPath": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingAdvancedForQA\\06. Dictionaries, Lambda and LINQ - Unit Testing Exercise\\TestApp.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\k_sto\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1029,8 +1029,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingAdvancedForQA\\06-Resources-Unit-Testing-Exercise-Dictionaries\\TestApp\\TestApp.csproj": {
-              "projectPath": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingAdvancedForQA\\06-Resources-Unit-Testing-Exercise-Dictionaries\\TestApp\\TestApp.csproj"
+            "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingAdvancedForQA\\06. Dictionaries, Lambda and LINQ - Unit Testing Exercise\\TestApp\\TestApp.csproj": {
+              "projectPath": "C:\\Users\\k_sto\\source\\repos\\ProgrammingForQA\\ProgrammingAdvancedForQA\\06. Dictionaries, Lambda and LINQ - Unit Testing Exercise\\TestApp\\TestApp.csproj"
             }
           }
         }
